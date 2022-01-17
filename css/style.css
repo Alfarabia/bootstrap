@@ -1,0 +1,25 @@
+section {
+  padding-top: 50px;
+  padding-bottom: 60px;
+}
+.carousel {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.carousel button {
+  width: 8%;
+  position: relative;
+}
+.carousel-control-prev-icon {
+  background-image: url(../img/left-arrow.png);
+}
+.carousel-control-next-icon {
+  background-image: url(../img/next.png);
+}
+.footer__menu {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
